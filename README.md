@@ -1,6 +1,6 @@
 # Point dot lisp
 
-This file should draw a point. Then you we add more refering to the autocad documentation. 
+This file should draw a point. Then we add more refering to the autocad documentation. 
 
 Learn more on [youtube.com/](https://www.youtube.com/channel/UCjiKfUMT7m1odCUvFZjKyHg)
 
